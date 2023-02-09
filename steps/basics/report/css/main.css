@@ -1,0 +1,2129 @@
+body,html{
+    overflow-x: hidden !important;
+
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.mt-10{
+    margin: 100px ;
+}
+
+
+th {
+    background-color: #fff !important;
+}
+
+table{
+    border: 1px solid #000 !important;
+}
+
+
+td {
+    background-color: #fcbf14 !important;
+    color: #000;
+}
+
+
+
+
+
+
+
+   /*page 1*/
+    .page1{
+        background-image:url(../img/1.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+
+   /* end page 1 */
+
+   /* page 2 */
+
+    .page2{
+        background-image:url(../img/2.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+
+
+
+.sky-h4 {
+    color: #fcbf01 !important;
+   font-size: 46.309982px;
+    font-weight: bold !important;
+    margin: 85px 0px 0px 56px !important;
+}
+
+
+.eran {
+    margin: -3px 0px 0px 60px;
+    font-size: 35px;
+    color: #fcbf14;
+}
+
+
+
+.career{
+    font-size: 38px;
+     margin: 85px 0px 0px 56px;
+     color: #fcbf14;
+}
+
+.upward{
+     font-size: 35px;
+    margin: 0px 0px 0px 56px;
+}
+
+
+/* end page 2*/
+
+/* page 3 */
+
+.page3{
+        background-image:url(../img/3.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+
+
+.pageh3 {
+    font-size: 38px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: -65px;
+    top: -35px;
+}
+.page3-h4 {
+    color: #fcbf01 !important;
+    font-size: 46.309982px;
+    font-weight: bold !important;
+    margin: 0px 0px 0px 56px !important;
+}
+.choosing {
+    font-size: 25px;
+    margin: 0px 0px 0px 56px;
+}
+.agent {
+    font-size: 30px;
+    margin: 85px 0px 0px 56px;
+    color: #fcbf14;
+}
+.Financial{
+    font-size: 20px;
+    margin: 0px 0px 0px 56px;
+}
+
+.boss{
+    color: #fcbf01;
+    font-size: 34px;
+}
+.working{
+    color: #fcbf01 !important;
+    font-size: 46.309982px;
+    font-weight: bold !important;
+    margin: 0px 0px 0px 56px !important;
+}
+
+/* end page 3*/
+
+/* page 4*/
+.page4{
+        background-image:url(../img/4.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+
+    .pageh4 {
+   font-size: 43px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: -16px;
+    top: -47px;
+}
+
+.page3-h4 {
+    color: #fcbf01 !important;
+    font-size: 46.309982px;
+    font-weight: bold !important;
+    margin: 0px 0px 0px 56px !important;
+}
+
+
+.p4 {
+    color: #fff3f3;
+    font-size: 39px;
+    text-align: center;
+    margin: 24px;
+    
+}
+
+.yellow{
+color: #fcbf01
+}
+
+/* end page 4*/
+
+
+
+/* page 5*/
+
+.page5{
+        background-image:url(../img/5.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+
+   .pageh5 {
+    font-size: 49px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: 86px;
+    top: -34px;
+}
+
+.page5-h4 {
+    color: #fff3f3;
+    font-size: 25px;
+    text-align: center;
+   margin: 24px 0 0 218px;
+}
+
+.page5-insurance{
+    font-size: 42px;
+    margin: 86px 0px 0px 325px;
+    color: #fcbf14;
+}
+
+
+.today{
+    color: #fff3f3;
+    font-size: 25px;
+    text-align: center;
+    margin: 29px 0 0 49px;
+}
+
+.considered{
+    color: #fff3f3;
+    font-size: 25px;
+    text-align: center;
+    margin: 0px 0 0 0px;
+}
+.world{
+    color: #fff3f3;
+    font-size: 25px;
+    text-align: center;
+    margin: 16px 189px 0 0px;
+}
+
+/* end page 5*/
+
+/*  page 6 */
+.page6{
+        background-image:url(../img/6.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+        .pageh6 {
+    font-size: 73px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    left: 26px;
+    top: -34px;
+}
+
+
+
+.page6-h4 {
+    font-size: 42px;
+    color: #fcbf14;
+}
+
+.page6-insurance {
+    font-size: 42px;
+    /* margin: 86px 0px 0px 0px; */
+    color: #fff;
+    text-align: center;
+}
+
+.as{
+    color: #fcbf14;
+    font-size: 33px;
+}
+.page6-paid{
+    font-size: 34px;
+    /* margin: 86px 0px 0px 0px; */
+    color: #fff;
+    text-align: center;
+}
+
+/* end page 6 */
+
+
+
+
+
+/*  page 7 */
+.page7{
+        background-image:url(../img/7.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+        .pageh7 {
+    font-size: 57px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    left: -179px;
+    top: -13px;
+}
+
+
+.page7-h4 {
+    font-size: 42px;
+    color: #fffefd;
+}
+
+.page6-insurance {
+    font-size: 42px;
+    /* margin: 86px 0px 0px 0px; */
+    color: #fff;
+    text-align: center;
+}
+
+.as7 {
+    color: #0c0900;
+    font-size: 31px;
+    background-color: #fcbf14;
+    width: 72%;
+    padding: 9px;
+    border-radius: 7px;
+}
+
+/* end page 7 */
+
+
+
+
+/*  page 8 */
+.page8{
+        background-image:url(../img/8.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+        .pageh8 {
+    font-size: 57px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+
+
+.page8-h4 {
+    font-size: 22px;
+    color: #fcbf14;
+}
+
+/* end page 8 */
+
+
+
+/*  page 9 */
+.page9{
+        background-image:url(../img/9.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh9 {
+    font-size: 41px;
+    color: #fcbf14;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+
+.page9-h4 {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+/* end page 9 */
+
+
+/*  page 10 */
+.page10{
+        background-image:url(../img/10.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh10 {
+    font-size: 40px;
+    color: #fcbf14;
+    font-weight: bold;
+   
+    
+}
+
+
+.page10-h4 {
+    font-size: 50px;
+    color: #fcbf14;
+}
+
+.page10-Insurance {
+    font-size: 63px;
+}
+
+/* end page 10 */
+
+
+
+/*  page 11 */
+.page11{
+        background-image:url(../img/11.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh11 {
+    font-size: 40px;
+    color: #fcbf14;
+    font-weight: bold;
+   
+    
+}
+
+
+.p12-text {
+    font-size: 35px;
+    /* margin-top: 23px; */
+    margin-right: 9px;
+}
+
+
+/* end page 11 */
+
+
+  /*  page 12 */
+.page12{
+        background-image:url(../img/12.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh12 {
+    font-size: 40px;
+    color: #fcbf14;
+    font-weight: bold;
+   
+    
+}
+
+
+
+
+/* end page 12 */
+
+
+
+  /*  page 13 */
+.page13{
+        background-image:url(../img/13.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh13 {
+    font-size: 50px;
+    color: #fcbf14;
+    font-weight: bold;
+   
+    
+}
+
+
+.p13{
+    font-size: 25px;
+    color: #fcbf14;
+}
+
+
+
+/* end page 13 */
+
+
+
+
+
+
+
+  /*  page 14 */
+.page14{
+        background-image:url(../img/14.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh14 {
+    font-size: 40px;
+    color: #fcbf14;
+    font-weight: bold;
+   
+    
+}
+
+
+.ph {
+    color: #fcbf14;
+    font-size: 23px;
+    font-weight: bold;
+    line-height: 45px;
+}
+
+/* end page 14 */
+
+
+
+
+
+
+
+  /*  page 15 */
+.page15{
+        background-image:url(../img/15.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh15 {
+    font-size: 50px;
+    color: #fcbf14;
+    font-weight: bold;
+   
+    
+}
+
+
+.np {
+    font-size: 24px;
+}
+.pn{
+    font-size: 28px;
+}
+
+.ph15{
+    font-size: 31px;
+    color: #fcbf14;
+    
+    
+}
+/* end page 15 */
+
+
+
+
+  /*  page 16 */
+.page16{
+        background-image:url(../img/16.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh16 {
+    font-size: 50px;
+    color: #fcbf14;
+    font-weight: bold;
+   
+    
+}
+
+.p16 {
+    font-size: 28px;
+    text-align: center;
+}
+
+/* end page 16 */
+
+
+
+  /*  page 17 */
+.page17{
+        background-image:url(../img/17.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh17 {
+    font-size: 50px;
+    color: #fcbf14;
+    font-weight: bold;
+   
+    
+}
+
+.p17 {
+    font-size: 28px;
+    text-align: center;
+}
+
+/* end page 17 */
+
+/*  page 18 */
+.page18{
+        background-image:url(../img/18.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh18 {
+    font-size: 32px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+
+.p18 {
+    font-size: 15px;
+    text-align: center;
+}
+
+/* end page 18 */
+
+/*  page 19 */
+.page19{
+        background-image:url(../img/19.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh19 {
+    font-size: 32px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+
+.p19 {
+    font-size: 15px;
+    text-align: center;
+    color: #fcbf14;
+}
+
+/* end page 19 */
+
+/*  page 20 */
+.page20{
+        background-image:url(../img/20.png);
+        width:100%;
+        height: 733px;
+        background-repeat:no-repeat;
+        background-size:contain;
+    }
+ 
+       .pageh20 {
+    font-size: 85px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.pageh123 {
+    font-size: 81px;
+    color: #fcbf14;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.thank {
+    position: relative;
+    top: 140px;
+}
+
+/* end page 20 */
+
+
+
+/*Media query start*/
+
+
+ 
+
+     @media (max-width: 480px) {
+        .t18{
+            position: relative;
+    top: -29px;
+        }
+.t19 {
+    position: relative;
+    top: -28px;
+}
+        li.list-group-item {
+    padding: 0px 0px 0px 9px;
+    font-size: 4px;
+    
+}
+         .h1 {
+            font-size: 25px;
+            text-transform: uppercase;
+            color: #83a8f2;
+            font-weight: bold;
+            position: relative;
+            top: 38px;
+        }
+         .info-tech{
+    color: #b069ff;
+}
+
+.p-5 {
+    padding: 2rem!important;
+}
+
+.mt-2 {
+    margin-top: 0px !important;
+}
+
+        .page1{
+       background-image:url(../img/1.png);
+       width:100%;
+       height: 191px;
+       background-repeat:no-repeat;
+       background-size: contain;
+    }
+    .page2{
+       background-image:url(../img/2.png);
+       width:100%;
+       height: 191px;
+       background-repeat:no-repeat;
+       background-size:contain;
+    }
+
+.h2, h2 {
+    font-size: 13px;
+}
+.mt-4 {
+    margin-top: 0px !important;
+}
+
+.sky-h4 {
+    color: #fcbf01 !important;
+    font-size: 10.309982px;
+    font-weight: bold !important;
+    margin: 25px 0px 0px 0px !important;
+}
+.eran {
+    margin: 0px 0px 0px 0px;
+    font-size: 8px;
+    color: #fcbf14;
+}
+.career {
+    font-size: 11px;
+    margin: 0px 0px 0px 0px;
+    color: #fcbf14;
+}
+.upward {
+    font-size: 11px;
+    margin: 0px 0px 0px 0px;
+}
+.pageh3 {
+    font-size: 10px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: -4px;
+    top: 0px;
+}
+.page3-h4 {
+    color: #fcbf01 !important;
+    font-size: 11.309982px;
+    font-weight: bold !important;
+    margin: 0px 0px 0px 0px !important;
+}
+
+.choosing {
+    font-size: 11px;
+    margin: 0px 0px 0px 0px;
+}
+.agent {
+    font-size: 11px;
+    margin: 0px 0px 0px 0px;
+    color: #fcbf14;
+}
+.Financial {
+    font-size: 7px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+.boss {
+    color: #fcbf01;
+    font-size: 10px;
+}
+
+.working {
+    color: #fcbf01 !important;
+    font-size: 7.309982px;
+    font-weight: bold !important;
+    margin: 0px 0px 0px 0px !important;
+}
+
+.main3 {
+    margin: -25px;
+}
+
+.page3 {
+    background-image: url(../img/3.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.page4 {
+    background-image: url(../img/4.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh4 {
+    font-size: 10px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: -6px;
+    top: -31px;
+}
+
+
+
+.p4{
+    color: #fff3f3;
+    font-size: 11px;
+    text-align: center;
+    margin: 0px;
+}
+
+
+.yellow {
+    color: #fcbf01 !important;
+}
+
+
+.page5 {
+    background-image: url(../img/5.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh5 {
+    font-size: 12px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: 29px;
+    top: -30px;
+}
+
+.page5-h4 {
+    color: #fff3f3;
+    font-size: 9px;
+    text-align: center;
+    margin: 0px 0 0 75px;
+}
+.page5-insurance {
+    font-size: 10px;
+    margin: 0px 0px 0px 64px;
+    color: #fcbf14;
+}
+.today {
+    color: #fff3f3;
+    font-size: 9px;
+    text-align: center;
+    margin: 0px 0 0 57px;
+}
+.page5-insurance {
+    font-size: 8px;
+    margin: 0px 0px 0px 98px;
+    color: #fcbf14;
+}
+.considered {
+    color: #fff3f3;
+    font-size: 9px;
+    text-align: center;
+    margin: 0px 0 0 39px;
+}
+
+
+
+.world {
+    color: #fff3f3;
+    font-size: 6px;
+    text-align: center;
+    margin: 0px 0px 0 -35px;
+}
+.page6 {
+    background-image: url(../img/6.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh6 {
+    font-size: 13px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    left: 26px;
+    top: -28px;
+}
+.page6-h4 {
+    font-size: 9px;
+    color: #fcbf14;
+}
+.page6-insurance {
+    font-size: 10px;
+    margin: 0px 0px 0px 0px;
+    color: #fff;
+    text-align: center;
+}
+.as {
+    color: #fcbf14;
+    font-size: 12px;
+}
+
+
+.page6-paid {
+    font-size: 8px;
+    /* margin: 86px 0px 0px 0px; */
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: -15px;
+}
+
+
+.page7 {
+    background-image: url(../img/7.png);
+    width: 100%;
+    height: 192px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh7 {
+    font-size: 17px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    left: 0px;
+    top: -24px;
+}
+.page7-h4 {
+    font-size: 8px;
+    color: #fffefd;
+}
+.as7 {
+    color: #0c0900;
+    font-size: 9px;
+    background-color: #fcbf14;
+    width: 100%;
+    padding: 5px;
+    border-radius: 4px;
+    position: relative;
+    top: -13px;
+}
+.page8 {
+    background-image: url(../img/8.png);
+    width: 99%;
+    height: 189px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh8 {
+    font-size: 13px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    top: -21px;
+}
+
+.page8-h4 {
+    font-size: 6px;
+    color: #fcbf14;
+    line-height: 7px;
+    position: relative;
+    top: -20px;
+    margin: 9px;
+}
+
+.page9 {
+    background-image: url(../img/9.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh9 {
+    font-size: 8px;
+    color: #fcbf14;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.page9-h4 {
+    font-size: 6px;
+    color: #ffffff;
+}
+.page10 {
+    background-image: url(../img/10.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh10 {
+    font-size: 11px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.page10-h4 {
+    font-size: 18px;
+    color: #fcbf14;
+}
+.page10-Insurance {
+    font-size: 10px;
+    text-align: center;
+}
+.pageh11 {
+    font-size: 9px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.mt-10 {
+    margin: 0px;
+}
+.np {
+    font-size: 6px;
+}
+
+.page11 {
+    background-image: url(../img/11.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.page12 {
+    background-image: url(../img/12.png);
+    width: 100%;
+    height: 190px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+
+
+
+.pageh12 {
+    font-size: 11px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    top: -13px;
+}
+
+
+.p12-text {
+    font-size: 12px;
+    /* margin-top: 23px; */
+    margin-right: 9px;
+}
+
+.mt-5 {
+    margin-top: 0rem!important;
+}
+.nn {
+    font-size: 6px;
+}
+.pageh13 {
+    font-size: 14px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.p13 {
+    font-size: 8px;
+    color: #fcbf14;
+}
+.page13 {
+    background-image: url(../img/13.png);
+    width: 100%;
+    height: 190px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh14 {
+    font-size: 12px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.ph {
+    color: #fcbf14;
+    font-size: 7px;
+    font-weight: bold;
+    line-height: 15px;
+    margin: -2px 0px 0px 47px;
+}
+.page14 {
+    background-image: url(../img/14.png);
+    width: 100%;
+    height: 190px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.page15 {
+    background-image: url(../img/15.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh15 {
+    font-size: 12px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.pn {
+    font-size: 6px;
+}
+.ph15 {
+    font-size: 8px;
+    color: #fcbf14;
+    line-height: 14px;
+    margin: -6px;
+}
+.page16 {
+    background-image: url(../img/16.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh16 {
+    font-size: 10px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    top: -22px;
+}
+.p16 {
+    font-size: 7px;
+    text-align: center;
+    position: relative;
+    top: -29px;
+}
+.IMG-NN {
+    max-width: 32%;
+    position: relative;
+    top: -36px;
+}
+ 
+ .NNN {
+    font-size: 8px;
+    LINE-HEIGHT: 0px;
+    position: relative;
+    top: -52px;
+}
+
+.page17 {
+    background-image: url(../img/17.png);
+    width: 100%;
+    height: 190px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh17 {
+    font-size: 11px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+
+.p17 {
+    font-size: 9px;
+    text-align: center;
+}
+
+
+
+.page18 {
+    background-image: url(../img/18.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh18 {
+    font-size: 10px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    top: -22px;
+}
+.p18 {
+    font-size: 7px;
+    text-align: center;
+    position: relative;
+    top: -21px;
+}
+.page19 {
+    background-image: url(../img/19.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh19 {
+    font-size: 10px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    top: -23px;
+}
+.p19 {
+    font-size: 6px;
+    text-align: center;
+    color: #fcbf14;
+    position: relative;
+    top: -22px;
+}
+.page20 {
+    background-image: url(../img/20.png);
+    width: 100%;
+    height: 191px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.thank {
+    position: relative;
+    top: 22px;
+}
+.pageh20 {
+    font-size: 26px;
+    color: #fff;
+    font-weight: bold;
+}
+.pageh123 {
+    font-size: 22px;
+    color: #fcbf14;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+    padding: 0px !important;
+    font-size: 5px !important;
+}
+   }
+
+/*480*/
+
+
+
+
+/*481 to 767*/
+ @media (min-width: 481px) and (max-width: 767px) {
+    .t18{
+            position: relative;
+            top: 0px;
+        }
+
+
+    .t19 {
+    position: relative;
+    top: 0px;
+}
+        
+    li.list-group-item {
+    padding: 0px 0px 0px 9px;
+    font-size: 5px;
+    }
+
+         .h1 {
+            font-size: 25px;
+            text-transform: uppercase;
+            color: #83a8f2;
+            font-weight: bold;
+            position: relative;
+            top: 38px;
+        }
+         .info-tech{
+    color: #b069ff;
+}
+
+.p-5 {
+    padding: 2rem!important;
+}
+
+.mt-2 {
+    margin-top: 0px !important;
+}
+
+        .page1{
+       background-image:url(../img/1.png);
+       width:100%;
+       height: 292px;
+       background-repeat:no-repeat;
+       background-size: contain;
+    }
+    .page2{
+       background-image:url(../img/2.png);
+       width:100%;
+       height: 292px;
+       background-repeat:no-repeat;
+       background-size:contain;
+    }
+
+.h2, h2 {
+    font-size: 13px;
+}
+.mt-4 {
+    margin-top: 0px !important;
+}
+
+.sky-h4 {
+    color: #fcbf01 !important;
+    font-size: 10.309982px;
+    font-weight: bold !important;
+    margin: 25px 0px 0px 0px !important;
+}
+.eran {
+    margin: 0px 0px 0px 0px;
+    font-size: 8px;
+    color: #fcbf14;
+}
+.career {
+    font-size: 11px;
+    margin: 0px 0px 0px 0px;
+    color: #fcbf14;
+}
+.upward {
+    font-size: 11px;
+    margin: 0px 0px 0px 0px;
+}
+.pageh3 {
+    font-size: 10px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: -4px;
+    top: 0px;
+}
+.page3-h4 {
+    color: #fcbf01 !important;
+    font-size: 11.309982px;
+    font-weight: bold !important;
+    margin: 0px 0px 0px 0px !important;
+}
+
+.choosing {
+    font-size: 11px;
+    margin: 0px 0px 0px 0px;
+}
+.agent {
+    font-size: 11px;
+    margin: 0px 0px 0px 0px;
+    color: #fcbf14;
+}
+.Financial {
+    font-size: 7px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+.boss {
+    color: #fcbf01;
+    font-size: 10px;
+}
+
+.working {
+    color: #fcbf01 !important;
+    font-size: 7.309982px;
+    font-weight: bold !important;
+    margin: 0px 0px 0px 0px !important;
+}
+
+.main3 {
+    margin: -25px;
+}
+
+.page3 {
+    background-image: url(../img/3.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.page4 {
+    background-image: url(../img/4.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh4 {
+    font-size: 10px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: -6px;
+    top: -31px;
+}
+
+
+
+.p4{
+    color: #fff3f3;
+    font-size: 11px;
+    text-align: center;
+    margin: 0px;
+}
+
+
+.yellow {
+    color: #fcbf01 !important;
+}
+
+
+.page5 {
+    background-image: url(../img/5.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh5 {
+    font-size: 12px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: 29px;
+    top: -30px;
+}
+
+.page5-h4 {
+    color: #fff3f3;
+    font-size: 9px;
+    text-align: center;
+    margin: 0px 0 0 35px;
+}
+.page5-insurance {
+    font-size: 10px;
+    margin: 0px 0px 0px 64px;
+    color: #fcbf14;
+}
+.today {
+    color: #fff3f3;
+    font-size: 10px;
+    text-align: center;
+    margin: 0px 0 0 -5px;
+}
+.page5-insurance {
+    font-size: 10px;
+    margin: 0px 0px 0px 140px;
+    color: #fcbf14;
+    text-align: center;
+}
+.considered {
+    color: #fff3f3;
+    font-size: 10px;
+    text-align: center;
+    margin: 0px 0 0 -27px;
+}
+
+
+
+.world {
+    color: #fff3f3;
+    font-size: 8px;
+    text-align: center;
+    margin: 0px 0px 0 -25px;
+}
+.page6 {
+    background-image: url(../img/6.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh6 {
+    font-size: 13px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    left: 26px;
+    top: -28px;
+}
+.page6-h4 {
+    font-size: 9px;
+    color: #fcbf14;
+}
+.page6-insurance {
+    font-size: 10px;
+    margin: 0px 0px 0px 0px;
+    color: #fff;
+    text-align: center;
+}
+.as {
+    color: #fcbf14;
+    font-size: 12px;
+}
+
+
+.page6-paid {
+    font-size: 8px;
+    /* margin: 86px 0px 0px 0px; */
+    color: #fff;
+    text-align: center;
+    position: relative;
+    top: -15px;
+}
+
+
+.page7 {
+    background-image: url(../img/7.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh7 {
+    font-size: 17px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    left: 0px;
+    top: -24px;
+}
+.page7-h4 {
+    font-size: 13px;
+    color: #fffefd;
+}
+.as7 {
+    color: #0c0900;
+    font-size: 9px;
+    background-color: #fcbf14;
+    /* width: 99%; */
+    padding: 5px;
+    border-radius: 4px;
+    position: relative;
+    top: -12px;
+}
+.page8 {
+    background-image: url(../img/8.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh8 {
+    font-size: 13px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    top: -21px;
+}
+
+.page8-h4 {
+    font-size: 12px;
+    color: #fcbf14;
+    line-height: 11px;
+    margin: 19px;
+}
+
+.page9 {
+    background-image: url(../img/9.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh9 {
+    font-size: 9px;
+    color: #fcbf14;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.page9-h4 {
+    font-size: 6px;
+    color: #ffffff;
+}
+.page10 {
+    background-image: url(../img/10.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh10 {
+    font-size: 10px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.page10-h4 {
+    font-size: 18px;
+    color: #fcbf14;
+}
+.page10-Insurance {
+    font-size: 10px;
+    text-align: center;
+}
+.pageh11 {
+    font-size: 9px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.mt-10 {
+    margin: 0px;
+}
+.np {
+    font-size: 6px;
+}
+
+.page11 {
+    background-image: url(../img/11.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.page12 {
+    background-image: url(../img/12.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+
+
+
+.pageh12 {
+    font-size: 11px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    top: -13px;
+}
+
+
+.p12-text {
+    font-size: 12px;
+    /* margin-top: 23px; */
+    margin-right: 9px;
+}
+
+.mt-5 {
+    margin-top: 0rem!important;
+}
+.nn {
+    font-size: 7px;
+}
+.pageh13 {
+    font-size: 14px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.p13 {
+    font-size: 8px;
+    color: #fcbf14;
+}
+.page13 {
+    background-image: url(../img/13.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh14 {
+    font-size: 12px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.ph {
+    color: #fcbf14;
+    font-size: 9px;
+    font-weight: bold;
+    line-height: 21px;
+    margin: 0px 0px 0px 60px;
+}
+.page14 {
+    background-image: url(../img/14.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.page15 {
+    background-image: url(../img/15.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh15 {
+    font-size: 17px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.pn {
+    font-size: 8px;
+}
+.ph15 {
+    font-size: 8px;
+    color: #fcbf14;
+    line-height: 17px;
+    margin: -6px;
+}
+.page16 {
+    background-image: url(../img/16.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh16 {
+    font-size: 10px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    top: -22px;
+}
+.p16 {
+    font-size: 9px;
+    text-align: center;
+    position: relative;
+    top: -21px;
+}
+.IMG-NN {
+    max-width: 32%;
+    position: relative;
+    top: -26px;
+}
+ 
+ .NNN {
+    font-size: 8px;
+    LINE-HEIGHT: 0px;
+    position: relative;
+    top: -38px;
+}
+
+.page17 {
+    background-image: url(../img/17.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.pageh17 {
+    font-size: 11px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+
+.p17 {
+    font-size: 9px;
+    text-align: center;
+}
+
+
+
+.page18 {
+    background-image: url(../img/18.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh18 {
+    font-size: 12px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.p18 {
+    font-size: 9px;
+    text-align: center;
+}
+.page19 {
+    background-image: url(../img/19.png);
+    width: 100%;
+    height: 289px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.pageh19 {
+    font-size: 10px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.p19 {
+    font-size: 6px;
+    text-align: center;
+    color: #fcbf14;
+}
+.page20 {
+    background-image: url(../img/20.png);
+    width: 100%;
+    height: 292px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.thank {
+    position: relative;
+    top: 57px;
+}
+.pageh20 {
+    font-size: 26px;
+    color: #fff;
+    font-weight: bold;
+}
+.pageh123 {
+    font-size: 22px;
+    color: #fcbf14;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+    padding: 0px !important;
+    font-size: 11px !important;
+}
+   }
+
+/*481 to 767*/
+
+.yellow-bg {
+    background-color: #fcbf14;
+    color: #000;
+}
+
+
+   @media screen and (min-width: 1200px) {
+       .h1 {
+    font-size: 110px;
+    text-transform: uppercase;
+    position: relative;
+    top: 53px;
+    color: #83a8f2;
+    font-weight: bold;
+
+}
+ .info-tech{
+    color: #b069ff;
+}
+
+
+
+.h2{
+    font-size: 42px;
+}
+ }
+
+
+@media (min-width: 1400px) and (max-width: 1500px){
+
+.sky-h4 {
+    color: #fcbf01 !important;
+    font-size: 33.309982px;
+    font-weight: bold !important;
+    margin: 85px 0px 0px 56px !important;
+}
+.eran {
+    margin: -3px 0px 0px 60px;
+    font-size: 26px;
+    color: #fcbf14;
+}
+.career {
+    font-size: 31px;
+    margin: 85px 0px 0px 56px;
+    color: #fcbf14;
+}
+.upward {
+    font-size: 24px;
+    margin: 0px 0px 0px 56px;
+}
+.pageh3 {
+    font-size: 27px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: -65px;
+    top: -35px;
+}
+.page3-h4 {
+    color: #fcbf01 !important;
+    font-size: 33.309982px;
+    font-weight: bold !important;
+    margin: 0px 0px 0px 56px !important;
+}
+.Financial {
+    font-size: 16px;
+    margin: 0px 0px 0px 56px;
+}
+.boss {
+    color: #fcbf01;
+    font-size: 27px;
+}
+.working {
+    color: #fcbf01 !important;
+    font-size: 34.309982px;
+    font-weight: bold !important;
+    margin: 0px 0px 0px 56px !important;
+}
+.pageh4 {
+    font-size: 26px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: -16px;
+    top: -39px;
+}
+.p4 {
+    color: #fff3f3;
+    font-size: 31px;
+    text-align: center;
+    margin: 9px;
+}
+.pageh5 {
+    font-size: 29px;
+    color: #fcbf01;
+    font-weight: bold;
+    position: relative;
+    left: 86px;
+    top: -34px;
+}
+
+.page5-insurance {
+    font-size: 28px;
+    margin: 86px 0px 0px 238px;
+    color: #fcbf14;
+}
+.page5-h4 {
+    color: #fff3f3;
+    font-size: 17px;
+    text-align: center;
+    margin: 24px 0 0 42px;
+}
+.pageh6 {
+    font-size: 45px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    left: 26px;
+    top: -34px;
+}
+
+.page6-h4 {
+    font-size: 30px;
+    color: #fcbf14;
+}
+.page6-paid {
+    font-size: 25px;
+    /* margin: 86px 0px 0px 0px; */
+    color: #fff;
+    text-align: center;
+}
+.pageh7 {
+    font-size: 38px;
+    color: #fcbf14;
+    font-weight: bold;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+.page7-h4 {
+    font-size: 28px;
+    color: #fffefd;
+}
+.as7 {
+    color: #0c0900;
+    font-size: 31px;
+    background-color: #fcbf14;
+    width: 100%;
+    padding: 9px;
+    border-radius: 7px;
+}
+.page8-h4 {
+    font-size: 16px;
+    color: #fcbf14;
+}
+.page10-Insurance {
+    font-size: 36px;
+    text-align: center;
+}
+.np {
+    font-size: 17px;
+}
+.ph {
+    color: #fcbf14;
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 40px;
+}
+.pageh15 {
+    font-size: 35px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.np {
+    font-size: 17px;
+}
+.pn {
+    font-size: 18px;
+}
+.ph15 {
+    font-size: 23px;
+    color: #fcbf14;
+}
+.pageh16 {
+    font-size: 33px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.p16 {
+    font-size: 22px;
+    text-align: center;
+}
+.NNN {
+    font-size: 12px;
+}
+.pageh17 {
+    font-size: 33px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.p17 {
+    font-size: 21px;
+    text-align: center;
+}
+.mt-5 {
+    margin-top: 0rem!important;
+}
+.pageh18 {
+    font-size: 24px;
+    color: #fcbf14;
+    font-weight: bold;
+}
+.p18 {
+    font-size: 11px;
+    text-align: center;
+}
+.pageh20 {
+    font-size: 39px;
+    color: #fff;
+    font-weight: bold;
+}
+.pageh123 {
+    font-size: 59px;
+    color: #fcbf14;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ li.list-group-item {
+    padding: 0px 0px 0px 9px;
+}
+
+.yellow-bg{
+    background-color: #dfac0d;
+}

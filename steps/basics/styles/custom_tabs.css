@@ -1,0 +1,24 @@
+
+.business-info {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+}
+
+.col-1, .col-2 {
+  width: 50%;
+}
+
+label, legend {
+  font-weight: bold;
+}
+
+input, select {
+  width: 100%;
+  padding: 5px 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
